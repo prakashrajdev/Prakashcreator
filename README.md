@@ -8,7 +8,7 @@
 
 • 🎓 I graduated in 2022 from TPGIT, Vellore (B.E, ECE) with a CGPA of 9.12
 
-• 🌱 I’m currently learning Angular JS & SQL 
+• 🌱 I’m currently learning React JS & SQL 
 
 • 💞️ Interests: Listening songs, creating content
 
