@@ -6,11 +6,8 @@
 
 • 💻 I’m a full stack Blazor developer and a content writer on HashNode
 
-• 🎓 I graduated in 2022 from TPGIT, Vellore (B.E, ECE) with a CGPA of 9.12
-
 • 🌱 I’m currently learning React JS & SQL 
 
-• 💞️ Interests: Listening songs, creating content
 
 ### Tech Stack
 
